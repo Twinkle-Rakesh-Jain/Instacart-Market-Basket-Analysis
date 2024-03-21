@@ -84,22 +84,22 @@ The top 2 departments with highest number of products sold:
 
 ### 3.Examination of top products within specific timeframes.
 
-a) Top Products per Group – Friday Rush Hours 
+### a.Top Products per Group – Friday Rush Hours 
 <img width="468" alt="image" src="https://github.com/Twinkle-Rakesh-Jain/Instacart-Market-Basket-Analysis/assets/159181933/21cc3ab4-4c75-4af5-a319-5debb232c129">
 
-b) Top Products per Group – Early Birds
+### b.Top Products per Group – Early Birds
 <img width="468" alt="image" src="https://github.com/Twinkle-Rakesh-Jain/Instacart-Market-Basket-Analysis/assets/159181933/d7504ec3-e315-41e2-9305-3e39333e612f">
 
-c) Top Products per Group – Evening Hours
+### c.Top Products per Group – Evening Hours
 <img width="468" alt="image" src="https://github.com/Twinkle-Rakesh-Jain/Instacart-Market-Basket-Analysis/assets/159181933/8a15e519-fbf9-43ba-ad43-825f0d75ddc7">
 
-d) Top Products per Group – Late Night Hours
+### d.Top Products per Group – Late Night Hours
 <img width="468" alt="image" src="https://github.com/Twinkle-Rakesh-Jain/Instacart-Market-Basket-Analysis/assets/159181933/cdd9eee5-2c0a-4fc8-9800-b7b4f0269cca">
 
-e)Top Products per Group – Monday – Thursday Rush Hours
+### e.Top Products per Group – Monday – Thursday Rush Hours
 <img width="468" alt="image" src="https://github.com/Twinkle-Rakesh-Jain/Instacart-Market-Basket-Analysis/assets/159181933/d3be531f-f4fa-4618-a967-5293c1e1297f">
 
-g) Top Products per Group – Weekend Busiest Hours
+### f.Top Products per Group – Weekend Busiest Hours
 <img width="468" alt="image" src="https://github.com/Twinkle-Rakesh-Jain/Instacart-Market-Basket-Analysis/assets/159181933/0657c07c-9547-44fe-9f31-42a68b98bb6b"
 
 
